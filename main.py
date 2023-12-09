@@ -23,4 +23,4 @@ Remainder = float(first_Num) % float(second_Num)
 print("Division is :  " + str(Division))
 print("Remainder is :  "  + str(Remainder))
 
-# Point to be noted : All the values are in *Float Format* 
+# Point to be noted : Variable Type : Float
